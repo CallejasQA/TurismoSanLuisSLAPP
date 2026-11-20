@@ -1,0 +1,8 @@
+{
+  "name": "Turismo San Luis",
+  "description": "Plataforma Android para explorar, reservar, administrar y valorar alojamientos turísticos ecológicos en San Luis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

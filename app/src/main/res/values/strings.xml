@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Turismo San Luis</string>
+    <string name="nav_home">Inicio</string>
+    <string name="nav_reservations">Reservas</string>
+    <string name="nav_owner_panel">Mi Panel</string>
+    <string name="nav_admin_panel">Admin</string>
+    <string name="nav_account">Cuenta</string>
+    <string name="hero_eyebrow">Escápate a la naturaleza</string>
+    <string name="hero_title">Encuentra alojamientos rodeados de naturaleza</string>
+    <string name="hero_lede">Explora hospedajes con encanto natural, tarifas claras y anfitriones verificados en San Luis.</string>
+    <string name="error_invalid_credentials">Credenciales inválidas</string>
+    <string name="error_affiliate_pending">Tu solicitud de afiliación aún no ha sido aprobada por el administrador.</string>
+    <string name="error_affiliate_rejected">Tu solicitud de afiliación fue rechazada. Contacta al administrador para más información.</string>
+</resources>
